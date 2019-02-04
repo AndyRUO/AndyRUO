@@ -20,7 +20,10 @@ welcome to my blog!
 
 
 #### 友情链接：
-<links>https://andyruo.github.io/AndyRUO/
+
+(https://andyruo.github.io/AndyRUO/)
 
 
-<links>www.luogu.org
+#### 洛谷
+
+（www.luogu.org）
